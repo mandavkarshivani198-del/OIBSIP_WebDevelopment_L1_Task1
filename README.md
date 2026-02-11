@@ -39,7 +39,7 @@ Screenshots
 ![Courses Section](photo2.png)
 
 GitHub Repository
-[Your GitHub Link Here](https://github.com/yourusername/OIBSIP_WebDev_L1)
+https://github.com/mandavkarshivani198-del/OIBSIP_WebDevelopment_L1_Task1
 
 Demo Video
 https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_html-css-oibsip-activity-7427376637454729217-m_0K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPLtesB_hTu1XrS9NiuYPIZ8GFThYiBuqk
