@@ -47,4 +47,4 @@ https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_html-css-oibsip-activ
 LinkedIn Post
 https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_oibsip-oasisinfobyte-aicte-share-7426712255557271552-QeFy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPLtesB_hTu1XrS9NiuYPIZ8GFThYiBuqk
 
-Note: This README serves as the official documentation for the Level 1 OIB-SIP Web Development Task. All files (HTML, CSS, images) are included in the repository for review.
+Note: This README serves as the official documentation for the Level 1 - Task 1 (Landing Page) under the OIB-SIP Web Development Internship. All files (HTML, CSS, images) are included in the repository for review.
