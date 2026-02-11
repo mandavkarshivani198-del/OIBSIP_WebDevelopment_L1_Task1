@@ -1,4 +1,4 @@
-## OIBSIP_WebDev_Task1– Landing Page Project
+# OIBSIP_WebDev_Task1– Landing Page Project
 
 ## Objective
 Create a responsive landing page for an online learning platform using HTML and CSS.  
